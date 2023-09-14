@@ -1,17 +1,1 @@
- Volume in drive S has no label.
- Volume Serial Number is 1A52-2AD6
 
- Directory of S:\
-
-04.09.2023  21:21    <DIR>          .
-04.09.2023  20:25    <DIR>          ..
-04.09.2023  21:09                49 author.txt
-04.09.2023  21:12    <DIR>          fruit
-04.09.2023  21:12    <DIR>          git
-04.09.2023  21:19               952 ip.txt
-04.09.2023  21:06               195 tree.txt
-04.09.2023  21:18                15 variant.txt
-04.09.2023  21:12    <DIR>          vegetable
-04.09.2023  21:21                 0 zmist.txt
-               5 File(s)          1ÿ211 bytes
-               5 Dir(s)  414ÿ352ÿ728ÿ064 bytes free
